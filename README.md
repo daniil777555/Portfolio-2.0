@@ -1,7 +1,6 @@
 # Portfolio projects
 
-A collection of projects from my journey learning software development, Python,
-and machine learning.
+A collection of projects from the start of my journey learning software development till the nowdays.
 
 ## MySQL
 
